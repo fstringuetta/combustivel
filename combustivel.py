@@ -1,3 +1,6 @@
+#!/bin/python
+# By: <stringuetta@gmail.com>
+
 # Calculadora entre etanol x gasolina
 import os
 if os.name == 'nt':
